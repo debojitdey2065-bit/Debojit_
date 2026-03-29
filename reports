@@ -1,1 +1,42 @@
-dfv
+WEEK 1 – Data Cleaning & Setup Report
+Objective
+
+The primary goal of Week 1 was to prepare the dataset for analysis by performing essential data cleaning and setup tasks using Excel.
+
+Tasks Performed
+
+1. Load Data in Excel
+
+Imported the dataset into Excel
+Verified that all data was properly loaded into the worksheet
+
+2. Check Dataset Information
+
+Reviewed columns, data types, and overall structure
+Used filters and basic Excel tools to understand data distribution
+
+3. Handle Missing Values
+
+Identified blank cells in the dataset
+Filled missing values or removed rows where necessary
+
+4. Remove Duplicates
+
+Used “Remove Duplicates” feature in Excel
+Ensured data consistency by eliminating repeated records
+
+5. Standardize Dates
+
+Formatted date columns into a consistent date format
+Ensured uniformity for accurate analysis
+
+6. Save Cleaned Dataset
+
+Saved the cleaned dataset in Excel/CSV format
+Ensured the file is ready for further analysis
+
+7. Upload Work to GitHub
+
+Created/used a GitHub repository
+Uploaded the cleaned dataset file
+Organized files with proper naming and structure
